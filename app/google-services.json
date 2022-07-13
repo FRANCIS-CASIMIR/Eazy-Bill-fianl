@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088001630371",
+    "project_id": "eazybill-e7d96",
+    "storage_bucket": "eazybill-e7d96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088001630371:android:a2a11bbc1f2709fd6cdf16",
+        "android_client_info": {
+          "package_name": "com.example.eazybill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088001630371-f9jhd2ahtnepf5bpagcoq2bf8kdhcd02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqFWT_YZUL5opYxoYaCzqFsPAZ-PKAHWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088001630371-f9jhd2ahtnepf5bpagcoq2bf8kdhcd02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
